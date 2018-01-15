@@ -1,3 +1,4 @@
+HEAD
 # intive_patronage_2018
 
 User story: As a regular user I want to be able to authenticate to the application so that I can see my account details
@@ -11,3 +12,6 @@ AC4. authenticated user can see account details view:
 	- surname
 	- email address
 	- mailing address
+
+upstream/master
+	
